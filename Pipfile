@@ -6,29 +6,29 @@ name = "pypi"
 
 
 [packages]
-asgiref="*"
-backports.zoneinfo="*"
-certifi="*"
-distlib="*"
-dj-database-url="*"
-Django="*"
-django-cors-headers="*"
-django-heroku="*"
-django-rest-framework="*"
-djangorestframework="*"
-filelock="*"
-my-package="*"
-pipenv="*"
-platformdirs="*"
-psycopg2="*"
-python-dotenv="*"
-pytz="*"
-sqlparse="*"
-todo="*"
-typing-extensions="*"
-virtualenv="*"
-virtualenv-clone="*"
-whitenoise="*"
+asgiref
+backports.zoneinfo
+certifi
+distlib
+dj-database-url
+Django
+django-cors-headers
+django-heroku
+django-rest-framework
+djangorestframework
+filelock
+my-package
+pipenv
+platformdirs
+psycopg2
+python-dotenv
+pytz
+sqlparse
+todo
+typing-extensions
+virtualenv
+virtualenv-clone
+whitenoise
 
 [requires]
 python_version = "3.8"
