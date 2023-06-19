@@ -29,10 +29,6 @@ typing-extensions="*"
 virtualenv="*"
 virtualenv-clone="*"
 whitenoise="*"
-django-cors-headers = "*"
-django-rest-framework = "*"
-
-[dev-packages]
 
 [requires]
 python_version = "3.8"
