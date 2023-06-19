@@ -22,9 +22,6 @@ def boot_django():
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders',
-    'rest_framework',
-    'todo',
        ]
     )
 
