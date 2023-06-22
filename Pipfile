@@ -8,6 +8,31 @@ django-cors-headers = "*"
 dj_database_url = "*"
 django-heroku = "*"
 djangorestframework = "*"
+certifi = "*"
+distlib = "*"
+dj-database-url = *"
+Django = "*"
+django-cors-headers = "*"
+django-rest-framework = "*"
+djangorestframework = "*"
+filelock = "*"
+gunicorn = "*"
+my-package = "*"
+pipenv = "*"
+platformdirs = "*" 
+psycopg2 = "*"
+python-decouple = "*" 
+python-dotenv = "*"
+pytz = "*"
+sqlparse = "*"
+typing-extensions = "*" 
+virtualenv = "*"
+virtualenv-clone = "*" 
+whitenoise = "*"
+
+
+
+
 [dev-packages]
 
 [requires]
