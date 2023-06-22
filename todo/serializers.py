@@ -1,8 +1,8 @@
-# todo/serializers.py
-from rest_framework import serializers # This is important
-from .models import Todo
+# serializers.py
+from rest_framework import serializers
+from .models import Bill
 
-class TodoSerializer(serializers.ModelSerializer):
+class BillSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Todo
-        fields = ('id', 'title', 'description', 'completed')
+        model = Bill
+        fields = '__all__'
