@@ -26,6 +26,7 @@ typing-extensions = "*"
 virtualenv = "*"
 virtualenv-clone = "*" 
 whitenoise = "*"
+Pillow = "*"
 
 
 
